@@ -1,0 +1,2768 @@
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: pelican
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: pelican
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: pelican
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: ant
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: kelpie
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: tow truck
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: doormat
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: kelpie
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: jellyfish
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: pelican
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: cloak
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: airship
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: pelican
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: Irish terrier
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: doormat
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: proboscis monkey
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: Irish terrier
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: Irish terrier
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: kelpie
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: airship
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: cloak
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: Irish terrier
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: Irish terrier
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: toilet tissue
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: pelican
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: airship
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: Irish terrier
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: electric ray
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: lighter
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: pelican
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: mixing bowl
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: macaw
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: mixing bowl
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: electric ray
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: doormat
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: macaw
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: macaw
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: kelpie
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: shovel
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: lighter
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: cheeseburger
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: macaw
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: rain barrel
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: kelpie
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: doormat
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: electric ray
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: rifle
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: pelican
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: pelican
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: pelican
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: doormat
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: pelican
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: doormat
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: doormat
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: jellyfish
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: macaw
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: kelpie
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: rifle
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: jellyfish
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: shovel
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: electric ray
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: shovel
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: doormat
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: airship
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: rifle
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: doormat
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: lighter
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: electric ray
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: jellyfish
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: macaw
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: electric ray
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: kelpie
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: pelican
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: mixing bowl
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: pelican
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: rock python
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: pelican
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: lighter
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: macaw
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: doormat
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: shovel
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: electric ray
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: cornet
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: macaw
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: macaw
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: electric ray
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: macaw
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: doormat
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: doormat
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: macaw
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: doormat
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: electric ray
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: ski mask
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: pelican
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: electric ray
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: doormat
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: shovel
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: pelican
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: mixing bowl
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: pelican
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: airship
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: macaw
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: cheeseburger
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: doormat
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: electric ray
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: kelpie
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: lighter
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: mixing bowl
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: pelican
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: pelican
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: velvet
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: freight car
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: freight car
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: freight car
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: limousine, limo
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: hair spray
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: chiffonier, commode
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: freight car
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: velvet
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: cairn, cairn terrier
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: backpack, back pack, knapsack, packsack, rucksack, haversack
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: breastplate, aegis, egis
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: velvet
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: horse cart, horse-cart
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: pretzel
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: horse cart, horse-cart
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: seashore, coast, seacoast, sea-coast
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: freight car
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: Pekinese, Pekingese, Peke
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: hair spray
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: poncho
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: mouse, computer mouse
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: vacuum, vacuum cleaner
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: backpack, back pack, knapsack, packsack, rucksack, haversack
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: velvet
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: bee
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: velvet
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: Pekinese, Pekingese, Peke
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: freight car
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: freight car
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: horse cart, horse-cart
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: saltshaker, salt shaker
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: cairn, cairn terrier
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: freight car
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: tobacco shop, tobacconist shop, tobacconist
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: velvet
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: bee
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: freight car
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: velvet
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: seashore, coast, seacoast, sea-coast
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: bee
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: horse cart, horse-cart
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: horse cart, horse-cart
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: chiffonier, commode
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: freight car
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: freight car
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: freight car
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: mouse, computer mouse
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: seashore, coast, seacoast, sea-coast
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: freight car
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: hair spray
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: chiffonier, commode
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: pretzel
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: Pekinese, Pekingese, Peke
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: bee
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: horse cart, horse-cart
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: wolf spider, hunting spider
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: maze, labyrinth
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: brain coral
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: hair spray
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: horse cart, horse-cart
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: velvet
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: velvet
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: freight car
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: velvet
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: wolf spider, hunting spider
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: maze, labyrinth
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: cairn, cairn terrier
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: saltshaker, salt shaker
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: vacuum, vacuum cleaner
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: vending machine
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: Old English sheepdog
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: Old English sheepdog
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: reflex camera
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: red-breasted merganser
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: whiptail
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: sax
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: harvester
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: red-breasted merganser
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: mushroom
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: Sussex spaniel
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: mushroom
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: whiptail
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: letter opener
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: red-breasted merganser
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: chain
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: tree frog
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: beacon
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: monarch butterfly
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: sandal
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: Old English sheepdog
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: chain
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: mushroom
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: red-breasted merganser
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: red-breasted merganser
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: whiptail
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: chain
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: Old English sheepdog
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: combination lock
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: Great Pyrenees
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: gorilla
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: mushroom
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: tree frog
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: chain
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: trailer truck
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: chain
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: sax
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: sax
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: whiptail
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: trailer truck
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: sandal
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: chain
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: Old English sheepdog
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: balloon
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: chain
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: cornet
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: cornet
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: chain
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: mushroom
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: sax
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: chain
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: gasmask
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: vending machine
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: reflex camera
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: combination lock
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: shopping cart
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: beacon
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: harvester
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: chain
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: whiptail
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: sax
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: beacon
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: cornet
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: sandal
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: chain
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: mushroom
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: sax
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: vending machine
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: cornet
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: Labrador retriever
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: sax
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: chain
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: eggnog
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: vending machine
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: beacon
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: sandal
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: vending machine
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: cornet
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: mushroom
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: cornet
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: cornet
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: Old English sheepdog
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: beacon
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: Old English sheepdog
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: chain
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: red-breasted merganser
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: vending machine
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: mushroom
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: sax
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: beacon
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: combination lock
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: beacon
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: beacon
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: chain
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: chain
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: mushroom
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: Old English sheepdog
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: beacon
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: Old English sheepdog
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: combination lock
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: sandal
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: chain
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: combination lock
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: beacon
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: sandal
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: mushroom
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: mushroom
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: combination lock
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: sax
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: aircraft carrier
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: Old English sheepdog
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: cornet
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: beacon
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: mushroom
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: mountain bike
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: sax
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: sandal
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: harvester
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: sandal
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: harvester
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: harvester
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: mushroom
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: mushroom
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: mushroom
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: mushroom
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: reflex camera
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: trailer truck
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: Old English sheepdog
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: vending machine
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: shopping cart
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: beacon
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: Great Pyrenees
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: beacon
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: chain
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: mushroom
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: sax
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: shopping cart
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: packet
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: packet
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: running shoe
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: packet
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: wallaby
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: beer glass
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: Brittany spaniel
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: bulbul
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: wallaby
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: leatherback turtle
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: bulbul
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: miniature poodle
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: miniature poodle
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: packet
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: packet
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: packet
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: bulbul
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: packet
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: running shoe
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: running shoe
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: running shoe
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: running shoe
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: anemone fish
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: running shoe
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: running shoe
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: packet
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: running shoe
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: Saluki
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: packet
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: bulbul
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: packet
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: packet
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: leatherback turtle
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: leatherback turtle
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: running shoe
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: bakery
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: packet
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: anemone fish
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: bulbul
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: barrow
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: wallaby
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: running shoe
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: anemone fish
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: bulbul
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: anemone fish
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: running shoe
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: running shoe
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: wallaby
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: packet
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: packet
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: running shoe
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: wallaby
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: running shoe
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: leatherback turtle
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: packet
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: sarong
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: sarong
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: sarong
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: vending machine
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: malamute
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: stone wall
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: wallet
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: go-kart
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: stone wall
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: malamute
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: vending machine
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: stone wall
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: go-kart
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: volcano
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: bassinet
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: stone wall
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: malamute
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: paddle
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: paddle
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: malamute
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: malamute
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: malamute
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: paddle
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: malamute
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: paddle
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: komondor
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: malamute
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: go-kart
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: malamute
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: malamute
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: paddle
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: harvester
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: steam locomotive
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: paddle
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: steam locomotive
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: volcano
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: wallet
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: sarong
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: wallet
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: volcano
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: malamute
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: paddle
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: vending machine
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: volcano
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: harvester
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: barrel
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: schipperke
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: paddle
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: malamute
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: paddle
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: barrel
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: wallet
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: barrel
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: volcano
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: schipperke
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: barrel
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: sarong
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: vending machine
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: vending machine
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: barrel
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: barrel
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: sarong
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: barrel
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: wallet
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: vending machine
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: volcano
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: volcano
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: volcano
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: sarong
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: sarong
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: malamute
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: paddle
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: malamute
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: paddle
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: paddle
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: paddle
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: barrel
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: loudspeaker
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: vending machine
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: sarong
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: wallet
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: wallet
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: barrel
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: barrel
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: barrel
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: sarong
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: go-kart
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: komondor
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: corkscrew
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: wallet
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: paddle
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: malamute
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: loudspeaker
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: barrel
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: paddle
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: volcano
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: sarong
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: volcano
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: wallet
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: volcano
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: stone wall
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: china cabinet
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: stone wall
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: stone wall
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: sarong
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: malamute
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: barrel
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: paddle
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: wallet
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: barrel
+
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: toyshop
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: toyshop
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: cairn
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: rotisserie
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: king crab
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: banjo
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: digital clock
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: digital clock
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: worm fence
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: toyshop
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: bobsled
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: cairn
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: cowboy boot
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: bobsled
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: carton
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: lighter
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: toyshop
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: toyshop
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: toyshop
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: carton
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: banjo
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: cairn
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: brass
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: lighter
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: bobsled
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: black-and-tan coonhound
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: brass
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: toyshop
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: traffic light
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: toyshop
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: traffic light
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: banjo
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: toyshop
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: traffic light
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: carton
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: screen
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: solar dish
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: lighter
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: dowitcher
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: banjo
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: Band Aid
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: screen
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: screen
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: toyshop
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: screen
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: beaver
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: digital clock
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: sulphur butterfly
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: toyshop
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: traffic light
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: traffic light
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: traffic light
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: traffic light
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: brass
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: traffic light
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: cairn
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: screen
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: toyshop
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: king crab
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: toyshop
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: screen
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: carton
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: hammerhead
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: screen
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: lighter
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: pizza
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: screen
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: carton
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: earthstar
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: king crab
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: king crab
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: dowitcher
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: lighter
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: brass
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: traffic light
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: dining table
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: bib
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: worm fence
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: cairn
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: lighter
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: screen
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: toyshop
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: traffic light
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: Band Aid
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: gown
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: toyshop
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: banjo
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: traffic light
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: toyshop
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: Appenzeller
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: Appenzeller
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: toyshop
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: traffic light
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: earthstar
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: face powder
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: Appenzeller
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: king crab
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: toyshop
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: screen
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: lighter
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: toyshop
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: king crab
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: banjo
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: king crab
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: toyshop
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: screen
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: traffic light
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: traffic light
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: traffic light
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: lighter
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: traffic light
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: cairn
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: brass
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: lighter
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: Appenzeller
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: screen
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: toyshop
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: traffic light
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: toyshop
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: traffic light
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: screen
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: traffic light
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: toyshop
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: brass
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: toyshop
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: screen
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: lesser panda
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: flat-coated retriever
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: banjo
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: carton
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: Band Aid
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: digital clock
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: cowboy boot
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: carton
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: worm fence
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: toyshop
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: traffic light
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: brass
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: brass
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: toyshop
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: toyshop
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: banjo
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: Band Aid
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: banjo
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: screen
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: toyshop
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: traffic light
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: potpie
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: cairn
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: dowitcher
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: Tibetan mastiff
+
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: French bulldog
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: schooner
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: water tower
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: rotisserie
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: schooner
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: oboe
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: oboe
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: swab
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: schooner
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: butternut squash
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: oboe
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: schooner
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: dishwasher
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: electric fan
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: wombat
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: house finch
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: oboe
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: burrito
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: water tower
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: lakeside
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: lakeside
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: maraca
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: trilobite
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: Sussex spaniel
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: boathouse
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: cucumber
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: Sussex spaniel
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: zucchini
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: dishwasher
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: dishwasher
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: lakeside
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: French bulldog
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: electric fan
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: French bulldog
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: French bulldog
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: electric fan
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: lakeside
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: schooner
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: king penguin
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: meerkat
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: zucchini
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: trilobite
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: oboe
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: king penguin
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: schooner
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: zucchini
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: wombat
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: trilobite
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: Sussex spaniel
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: king penguin
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: dishwasher
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: dishwasher
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: oboe
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: dishwasher
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: zucchini
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: king penguin
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: trilobite
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: schooner
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: schooner
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: water tower
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: rotisserie
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: weasel
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: rotisserie
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: French bulldog
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: oboe
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: lakeside
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: king penguin
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: schooner
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: king penguin
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: soap dispenser
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: safe
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: ladybug
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: trilobite
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: oboe
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: water tower
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: ladybug
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: daisy
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: cocktail shaker
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: zucchini
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: cucumber
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: hare
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: oboe
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: king penguin
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: house finch
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: trilobite
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: French bulldog
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: zucchini
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: schooner
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: trilobite
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: weasel
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: daisy
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: ladybug
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: oboe
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: Sussex spaniel
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: oboe
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: rotisserie
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: oboe
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: trilobite
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: wombat
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: water tower
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: zucchini
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: schooner
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: French bulldog
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: daisy
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: French bulldog
+
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: dung beetle
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: crate
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: photocopier
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: slug
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: barbershop
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: redbone
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: half track
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: half track
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: groom
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: crib
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: crane bird
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: valley
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: tiger cat
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: limousine
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: groom
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: barbershop
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: barbershop
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: half track
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: tiger cat
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: barbershop
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: steel arch bridge
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: crane bird
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: tiger cat
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: slug
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: tiger cat
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: crib
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: valley
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: airship
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: Japanese spaniel
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: groom
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: crate
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: Japanese spaniel
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: valley
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: groom
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: crib
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: groom
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: airship
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: echidna
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: crib
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: crib
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: tow truck
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: groom
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: red fox
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: crate
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: tow truck
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: barbershop
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: crane bird
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: groom
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: crate
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: echidna
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: groom
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: Lhasa
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: crane bird
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: echidna
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: redbone
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: crate
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: echidna
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: tow truck
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: echidna
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: red fox
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: steel arch bridge
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: groom
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: echidna
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: purse
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: crib
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: dung beetle
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: crane bird
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: groom
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: crate
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: dung beetle
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: red fox
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: limousine
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: tow truck
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: half track
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: photocopier
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: limousine
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: crate
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: crane bird
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: crib
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: Lhasa
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: echidna
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: photocopier
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: half track
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: photocopier
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: tow truck
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: half track
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: tow truck
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: tow truck
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: groom
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: crib
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: red fox
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: crib
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: groom
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: crane bird
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: crib
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: red fox
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: photocopier
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: plunger
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: tow truck
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: crate
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: flute
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: barbershop
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: tow truck
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: crate
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: echidna
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: redbone
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: crib
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: crib
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: crib
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: echidna
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: crib
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: slug
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: red fox
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: redbone
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: steel arch bridge
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: limousine
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: barbershop
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: groom
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: plunger
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: crib
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: crib
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: tow truck
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: dung beetle
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: red fox
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: echidna
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: crane bird
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: crate
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: groom
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: purse
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: half track
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: groom
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: half track
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: groom
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: half track
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: photocopier
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: groom
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: red fox
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: groom
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: groom
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: tow truck
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: dung beetle
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: echidna
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: crate
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: crib
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: photocopier
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: crate
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: dung beetle
+
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: soup bowl
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: soup bowl
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: throne
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: teapot
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: bighorn
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: teapot
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: shoe shop
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: teapot
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: teapot
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: toilet tissue
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: bighorn
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: kelpie
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: teapot
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: jackfruit
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: jackfruit
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: lynx
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: triceratops
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: chain saw
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: chain saw
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: park bench
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: kelpie
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: screen
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: bathing cap
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: tub
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: throne
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: teapot
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: teapot
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: cricket
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: kelpie
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: kelpie
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: Cardigan
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: lynx
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: triceratops
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: lynx
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: whiptail
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: cricket
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: squirrel monkey
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: Border terrier
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: throne
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: kelpie
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: kelpie
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: teapot
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: lynx
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: cricket
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: tiger beetle
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: electric fan
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: tiger beetle
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: soup bowl
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: chain saw
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: throne
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: screen
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: slot
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: kelpie
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: chain saw
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: throne
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: tripod
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: kelpie
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: park bench
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: screen
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: kelpie
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: folding chair
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: chain saw
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: chain saw
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: teapot
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: soup bowl
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: teapot
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: throne
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: kelpie
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: soup bowl
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: throne
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: cricket
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: folding chair
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: slot
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: triceratops
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: electric fan
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: slot
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: Border terrier
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: chain saw
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: throne
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: lotion
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: triceratops
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: otterhound
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: crib
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: lynx
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: bighorn
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: miniature poodle
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: kelpie
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: teapot
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: slot
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: soup bowl
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: park bench
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: teapot
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: soup bowl
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: lotion
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: lotion
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: park bench
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: lynx
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: miniature poodle
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: park bench
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: kelpie
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: chain saw
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: throne
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: throne
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: kelpie
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: lotion
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: chain saw
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: folding chair
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: cricket
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: park bench
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: park bench
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: soup bowl
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: warplane
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: teapot
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: tiger beetle
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: throne
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: folding chair
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: triceratops
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: soup bowl
+
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: horned viper
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: horned viper
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: Gordon setter
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: pretzel
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: jinrikisha
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: minivan
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: horned viper
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: horned viper
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: chickadee
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: drum
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: hook
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: barber chair
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: house finch
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: overskirt
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: house finch
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: drum
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: cliff
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: Egyptian cat
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: Egyptian cat
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: military uniform
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: house finch
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: horned viper
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: house finch
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: radio
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: jinrikisha
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: Gordon setter
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: horned viper
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: horned viper
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: radio
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: chime
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: radio
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: house finch
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: horned viper
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: sarong
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: sulphur-crested cockatoo
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: lion
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: pretzel
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: minivan
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: chime
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: chime
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: dalmatian
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: German short-haired pointer
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: Cardigan
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: Egyptian cat
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: padlock
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: schooner
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: minivan
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: toilet seat
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: jinrikisha
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: isopod
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: tractor
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: sarong
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: sarong
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: drum
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: schooner
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: chambered nautilus
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: horned viper
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: bikini
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: horned viper
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: Chihuahua
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: horned viper
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: horned viper
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: jinrikisha
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: chime
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: pretzel
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: white wolf
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: schooner
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: tractor
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: stinkhorn
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: Doberman
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: wool
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: chime
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: military uniform
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: megalith
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: military uniform
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: pretzel
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: military uniform
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: isopod
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: crutch
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: lion
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: horned viper
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: alp
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: horned viper
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: pretzel
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: horned viper
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: tractor
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: military uniform
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: cliff
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: crutch
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: house finch
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: sulphur-crested cockatoo
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: pretzel
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: Cardigan
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: Gordon setter
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: schooner
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: sarong
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: cliff
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: pretzel
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: horned viper
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: minivan
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: cliff
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: chambered nautilus
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: minivan
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: sulphur-crested cockatoo
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: schooner
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: Gordon setter
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: sarong
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: house finch
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: Chihuahua
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: Gordon setter
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: horned viper
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: pretzel
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: horned viper
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: hook
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: lion
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: chime
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: ostrich
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: fire screen
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: chime
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: barber chair
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: groenendael
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: meat loaf
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: garbage truck
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: lion
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: Gordon setter
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: sarong
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: horned viper
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: Chihuahua
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: horned viper
+
+----------------------------------- ../ImageNet21K-main/data/0.1/0.1output-10------------------------------------
+图片名: 0.004968_sea anemone _ sea anemone_0.6247352.jpg, 真实标签: stingray, 预测标签: gown
+图片名: 0.005096_armadillo _ racket_0.505435.jpg, 真实标签: stingray, 预测标签: gown
+图片名: 0.005107_sea lion _ sea lion_0.7491285.jpg, 真实标签: stingray, 预测标签: gown
+图片名: 0.006388_starfish _ American bullfrog_0.2916988.jpg, 真实标签: stingray, 预测标签: gown
+图片名: 0.016300_sea lion _ sea lion_0.9963648.jpg, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00001935.JPEG, 真实标签: stingray, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00002284.JPEG, 真实标签: stingray, 预测标签: chain
+图片名: ILSVRC2012_val_00002480.JPEG, 真实标签: stingray, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00004873.JPEG, 真实标签: stingray, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00005642.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00006402.JPEG, 真实标签: stingray, 预测标签: water buffalo
+图片名: ILSVRC2012_val_00008952.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00009734.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00013655.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00014771.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00015045.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00015373.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00021793.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00023239.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00024204.JPEG, 真实标签: stingray, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00024719.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00025051.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00026908.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00027005.JPEG, 真实标签: stingray, 预测标签: guillotine
+图片名: ILSVRC2012_val_00027415.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00028450.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00029169.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00030380.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00030470.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00032394.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00032441.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00033337.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00033942.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00037740.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00037753.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00037798.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00038215.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00038935.JPEG, 真实标签: stingray, 预测标签: hand-held computer
+图片名: ILSVRC2012_val_00039308.JPEG, 真实标签: stingray, 预测标签: water snake
+图片名: ILSVRC2012_val_00039525.JPEG, 真实标签: stingray, 预测标签: bathtub
+图片名: ILSVRC2012_val_00040342.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00041872.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00042175.JPEG, 真实标签: stingray, 预测标签: gown
+图片名: ILSVRC2012_val_00042385.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00042534.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00042547.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00043229.JPEG, 真实标签: stingray, 预测标签: guillotine
+图片名: ILSVRC2012_val_00043323.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00043702.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00046497.JPEG, 真实标签: stingray, 预测标签: sunglasses
+图片名: 0.000516_barn _ barn_0.66103417.jpg, 真实标签: goldfinch, 预测标签: gown
+图片名: 0.000559_stick insect _ centipede_0.32616335.jpg, 真实标签: goldfinch, 预测标签: corkscrew
+图片名: 0.000626_jeep _ jeep_0.7040078.jpg, 真实标签: goldfinch, 预测标签: gown
+图片名: 0.000752_canoe _ canoe_0.8549081.jpg, 真实标签: goldfinch, 预测标签: Weimaraner
+图片名: 0.001738_submarine _ submarine_0.90098894.jpg, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00000570.JPEG, 真实标签: goldfinch, 预测标签: Maltese dog
+图片名: ILSVRC2012_val_00001274.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00002668.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00003548.JPEG, 真实标签: goldfinch, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00003816.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00004893.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00005287.JPEG, 真实标签: goldfinch, 预测标签: water buffalo
+图片名: ILSVRC2012_val_00005567.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00010409.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00013270.JPEG, 真实标签: goldfinch, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00013407.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00013902.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00013998.JPEG, 真实标签: goldfinch, 预测标签: abacus
+图片名: ILSVRC2012_val_00015431.JPEG, 真实标签: goldfinch, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00015863.JPEG, 真实标签: goldfinch, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00015903.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00016252.JPEG, 真实标签: goldfinch, 预测标签: planetarium
+图片名: ILSVRC2012_val_00016538.JPEG, 真实标签: goldfinch, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00017391.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00019236.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00024256.JPEG, 真实标签: goldfinch, 预测标签: water snake
+图片名: ILSVRC2012_val_00025151.JPEG, 真实标签: goldfinch, 预测标签: water snake
+图片名: ILSVRC2012_val_00025507.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00025535.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00025888.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00026279.JPEG, 真实标签: goldfinch, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00028063.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00029581.JPEG, 真实标签: goldfinch, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00029740.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00030071.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00030320.JPEG, 真实标签: goldfinch, 预测标签: water buffalo
+图片名: ILSVRC2012_val_00031086.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00031630.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00032154.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00032359.JPEG, 真实标签: goldfinch, 预测标签: sock
+图片名: ILSVRC2012_val_00032710.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00032855.JPEG, 真实标签: goldfinch, 预测标签: water buffalo
+图片名: ILSVRC2012_val_00032993.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00034250.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00035254.JPEG, 真实标签: goldfinch, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00035833.JPEG, 真实标签: goldfinch, 预测标签: gown
+图片名: ILSVRC2012_val_00037611.JPEG, 真实标签: goldfinch, 预测标签: corkscrew
+图片名: ILSVRC2012_val_00042032.JPEG, 真实标签: goldfinch, 预测标签: water snake
+图片名: ILSVRC2012_val_00047029.JPEG, 真实标签: goldfinch, 预测标签: scorpion
+图片名: ILSVRC2012_val_00048710.JPEG, 真实标签: goldfinch, 预测标签: water snake
+图片名: 0.000460_baboon _ sea lion_0.767521.jpg, 真实标签: junco, 预测标签: sunglasses
+图片名: 0.000526_vulture _ vulture_0.94489056.jpg, 真实标签: junco, 预测标签: gown
+图片名: 0.000834_suspension bridge _ suspension bridge_0.47410393.jpg, 真实标签: junco, 预测标签: gown
+图片名: 0.002192_hummingbird _ hummingbird_0.8170408.jpg, 真实标签: junco, 预测标签: scorpion
+图片名: 0.004787_pretzel _ pretzel_0.5048585.jpg, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00000247.JPEG, 真实标签: junco, 预测标签: bathtub
+图片名: ILSVRC2012_val_00000713.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: ILSVRC2012_val_00001915.JPEG, 真实标签: junco, 预测标签: wallet
+图片名: ILSVRC2012_val_00003116.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00003878.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: ILSVRC2012_val_00003903.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00004577.JPEG, 真实标签: junco, 预测标签: water snake
+图片名: ILSVRC2012_val_00006326.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: ILSVRC2012_val_00007872.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00009351.JPEG, 真实标签: junco, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00010456.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00011178.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00011841.JPEG, 真实标签: junco, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00012058.JPEG, 真实标签: junco, 预测标签: bathtub
+图片名: ILSVRC2012_val_00013277.JPEG, 真实标签: junco, 预测标签: planetarium
+图片名: ILSVRC2012_val_00013504.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: ILSVRC2012_val_00013945.JPEG, 真实标签: junco, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00014108.JPEG, 真实标签: junco, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00015216.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00015410.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00015416.JPEG, 真实标签: junco, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00016677.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: ILSVRC2012_val_00017384.JPEG, 真实标签: junco, 预测标签: corkscrew
+图片名: ILSVRC2012_val_00017712.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00017970.JPEG, 真实标签: junco, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00021650.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00023125.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: ILSVRC2012_val_00023850.JPEG, 真实标签: junco, 预测标签: corkscrew
+图片名: ILSVRC2012_val_00024884.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00026687.JPEG, 真实标签: junco, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00027831.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00029999.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00030544.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00030657.JPEG, 真实标签: junco, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00030911.JPEG, 真实标签: junco, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00035389.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00036008.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00036042.JPEG, 真实标签: junco, 预测标签: Siberian husky
+图片名: ILSVRC2012_val_00037239.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00038794.JPEG, 真实标签: junco, 预测标签: planetarium
+图片名: ILSVRC2012_val_00039801.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00040606.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00045480.JPEG, 真实标签: junco, 预测标签: planetarium
+图片名: ILSVRC2012_val_00046797.JPEG, 真实标签: junco, 预测标签: gown
+图片名: ILSVRC2012_val_00047333.JPEG, 真实标签: junco, 预测标签: scorpion
+图片名: 0.000069_ambulance _ bison_0.36011547.jpg, 真实标签: American robin, 预测标签: Weimaraner
+图片名: 0.000272_lighthouse _ lighthouse_0.5415044.jpg, 真实标签: American robin, 预测标签: sunglasses
+图片名: 0.000341_doormat _ doormat_0.5695939.jpg, 真实标签: American robin, 预测标签: gown
+图片名: 0.001106_accordion _ accordion_0.5300096.jpg, 真实标签: American robin, 预测标签: gown
+图片名: 0.001918_wheelbarrow _ wheelbarrow_0.88171786.jpg, 真实标签: American robin, 预测标签: scorpion
+图片名: ILSVRC2012_val_00001598.JPEG, 真实标签: American robin, 预测标签: hand-held computer
+图片名: ILSVRC2012_val_00002825.JPEG, 真实标签: American robin, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00005412.JPEG, 真实标签: American robin, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00005594.JPEG, 真实标签: American robin, 预测标签: water snake
+图片名: ILSVRC2012_val_00005833.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00006030.JPEG, 真实标签: American robin, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00007667.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00009092.JPEG, 真实标签: American robin, 预测标签: puck
+图片名: ILSVRC2012_val_00010767.JPEG, 真实标签: American robin, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00012651.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00014336.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00014362.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00017660.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00019038.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00019082.JPEG, 真实标签: American robin, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00019208.JPEG, 真实标签: American robin, 预测标签: water snake
+图片名: ILSVRC2012_val_00020610.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00021239.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00022186.JPEG, 真实标签: American robin, 预测标签: scorpion
+图片名: ILSVRC2012_val_00022407.JPEG, 真实标签: American robin, 预测标签: planetarium
+图片名: ILSVRC2012_val_00024704.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00027535.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00028224.JPEG, 真实标签: American robin, 预测标签: scorpion
+图片名: ILSVRC2012_val_00028607.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00029417.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00029495.JPEG, 真实标签: American robin, 预测标签: scorpion
+图片名: ILSVRC2012_val_00029627.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00030475.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00030701.JPEG, 真实标签: American robin, 预测标签: scorpion
+图片名: ILSVRC2012_val_00031273.JPEG, 真实标签: American robin, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00034482.JPEG, 真实标签: American robin, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00035060.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00035131.JPEG, 真实标签: American robin, 预测标签: planetarium
+图片名: ILSVRC2012_val_00035807.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00038488.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00039814.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00039913.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00040538.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00041152.JPEG, 真实标签: American robin, 预测标签: wallet
+图片名: ILSVRC2012_val_00041944.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00044311.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00044378.JPEG, 真实标签: American robin, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00045150.JPEG, 真实标签: American robin, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00045294.JPEG, 真实标签: American robin, 预测标签: gown
+图片名: ILSVRC2012_val_00047592.JPEG, 真实标签: American robin, 预测标签: water snake
+图片名: 0.001311_cradle _ cradle_0.36203277.jpg, 真实标签: jay, 预测标签: scorpion
+图片名: 0.004003_flagpole _ suspension bridge_0.7721169.jpg, 真实标签: jay, 预测标签: sunglasses
+图片名: 0.004255_sea lion _ sea lion_0.39757383.jpg, 真实标签: jay, 预测标签: colobus
+图片名: 0.009384_crayfish _ crayfish_0.9496378.jpg, 真实标签: jay, 预测标签: gown
+图片名: 0.016779_toucan _ toucan_0.99415576.jpg, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00000880.JPEG, 真实标签: jay, 预测标签: planetarium
+图片名: ILSVRC2012_val_00001084.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00002929.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00003386.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00004317.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00004344.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00006267.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00006463.JPEG, 真实标签: jay, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00006851.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00009535.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00010240.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00010272.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00011446.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00012132.JPEG, 真实标签: jay, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00013753.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00015195.JPEG, 真实标签: jay, 预测标签: bathtub
+图片名: ILSVRC2012_val_00016831.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00017024.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00017975.JPEG, 真实标签: jay, 预测标签: Weimaraner
+图片名: ILSVRC2012_val_00020905.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00022106.JPEG, 真实标签: jay, 预测标签: bathtub
+图片名: ILSVRC2012_val_00022505.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00023945.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00025361.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00026136.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00026465.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00026656.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00028440.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00028524.JPEG, 真实标签: jay, 预测标签: bathtub
+图片名: ILSVRC2012_val_00032702.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00032831.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00033307.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00033515.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00034144.JPEG, 真实标签: jay, 预测标签: rocking chair
+图片名: ILSVRC2012_val_00034333.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00034552.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00037939.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00038405.JPEG, 真实标签: jay, 预测标签: scorpion
+图片名: ILSVRC2012_val_00040412.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00041308.JPEG, 真实标签: jay, 预测标签: corkscrew
+图片名: ILSVRC2012_val_00042248.JPEG, 真实标签: jay, 预测标签: gown
+图片名: ILSVRC2012_val_00043995.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00045062.JPEG, 真实标签: jay, 预测标签: sunglasses
+图片名: ILSVRC2012_val_00046280.JPEG, 真实标签: jay, 预测标签: water snake
+图片名: ILSVRC2012_val_00048360.JPEG, 真实标签: jay, 预测标签: scorpion
