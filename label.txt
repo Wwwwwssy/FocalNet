@@ -1,0 +1,56 @@
+n01498041 stingray 
+n01531178 goldfinch 
+n01534433 junco 
+n01558993 American robin 
+n01580077 jay 
+n01614925 bald eagle 
+n01616318 vulture 
+n01631663 newt 
+n01641577 bullfrog 
+n01669191 box turtle 
+n01677366 common iguana 
+n01687978 agama 
+n01694178 African chameleon 
+n01698640 American alligator 
+n01735189 garter snake 
+n01770081 harvestman 
+n01770393 scorpion 
+n01784675 centipede 
+n01819313 sulphur-crested cockatoo 
+n01820546 lorikeet 
+n01833805 hummingbird 
+n01847000 duck 
+n01855672 goose 
+n01910747 jellyfish 
+n01914609 sea anemone 
+n01924916 flatworm 
+n01944390 snail 
+n01985128 crayfish 
+n02007558 flamingo 
+n02009912 American egret 
+n02051845 pelican 
+n02119022 red fox 
+n02123394 Persian cat 
+n02127052 lynx 
+n02137549 mongoose 
+n02165456 ladybug 
+n02190166 fly 
+n02206856 bee 
+n02219486 ant 
+n02226429 grasshopper 
+n02231487 stick insect 
+n02233338 cockroach 
+n02236044 mantis 
+n02268443 dragonfly 
+n02279972 monarch butterfly 
+n02280649 small white 
+n02281787 gossamer-winged butterfly 
+n02325366 cottontail rabbit 
+n02346627 porcupine 
+n02356798 fox squirrel 
+n02445715 skunk 
+n02948072 candle 
+n02999410 chain 
+n03666591 lighter 
+n04399382 teddy bear 
+n07734744 mushroom 
